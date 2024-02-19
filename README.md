@@ -8,3 +8,4 @@
 7. `git add .`
 8. `git commit -m "Your comment"`
 9. `git push origin "your_branch_name"`
+10. Then go to Actions Tab in github interface to see if your test runs successfully or not
